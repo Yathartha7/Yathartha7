@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a Final year Computer Science student with a passion for Android Development, Full Stack Web Development and Machine Learning.<br>Welcome to my GitHub profile!<br>Feel free to explore my projects.
+# 🚀 About Me:
+I am a Final year Computer Science student with a passion for Android Development, Full Stack Web Development and Machine Learning.<br>Welcome to my GitHub profile!<br>Please feel free to explore my projects.
 
 
 ## 🌐 Socials:
